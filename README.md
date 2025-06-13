@@ -1,7 +1,7 @@
 # terraform
 Repository to save my terraform files
 
-# execute this before any terraform commands
+### execute this before any terraform commands
 export TF_PLUGIN_CACHE_DIR=/Users/srinivaskambhampati/.terraform.d/plugin-cache
 
 quick ref:
